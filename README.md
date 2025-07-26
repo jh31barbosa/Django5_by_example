@@ -2,4 +2,4 @@
 This project has the goal to track my progress through out this book
 
 ## Page - Track
-Jul 24 - page 53 - Topic new features in Django5(Home)
+Jul 24 - page 54 - Topic new features in Django5
